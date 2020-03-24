@@ -1,5 +1,7 @@
 {
   "name": "videocall",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
